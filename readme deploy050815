@@ -1,0 +1,3 @@
+MVN - Plgn - gwt:run
+             gwt:compile
+             war:war
